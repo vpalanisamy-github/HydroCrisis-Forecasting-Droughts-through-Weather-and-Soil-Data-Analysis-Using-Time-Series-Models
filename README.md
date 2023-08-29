@@ -1,6 +1,6 @@
 # HydroCrisis-Forecasting-Droughts-through-Weather-and-Soil-Data-Analysis-Using-Time-Series-Models
 
-**About the Dataset:**
+## **About the Dataset:**
 
 * This dataset exists thanks to the generous contributions of the NASA POWER Project and the
 dedicated authors behind the US Drought Monitor. These groups have provided valuable data that
@@ -23,7 +23,7 @@ manage them better. It's a collaborative effort that enhances our understanding 
 environmental challenge.
 
 
-**Objectives:**
+## **Objectives:**
 
 * **Drought Prediction:** Develop a model that can predict the likelihood of drought events based on
 weather and soil data.
